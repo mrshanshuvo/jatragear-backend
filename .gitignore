@@ -5,6 +5,4 @@ generated
 .env.*
 *.env
 /generated/prisma
-.gitignore
-
-*.env
+.vscode/
